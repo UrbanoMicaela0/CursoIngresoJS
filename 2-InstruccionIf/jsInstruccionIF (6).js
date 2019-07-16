@@ -1,4 +1,4 @@
-function mostrar()
+function Mostrar()
 {
 //tomo la edad  
 
